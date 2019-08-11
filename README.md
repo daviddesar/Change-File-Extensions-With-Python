@@ -8,5 +8,5 @@ You can change the files extension by running this script and following these si
 - And finally click `Convert!`
 > Libraries I used in this file:
 - `tkinter` : I use tkinter to make the GUI and make the app visible and easier to use.
-- `glob` : Glob library helps me to define the extension-type files in the directory and scan them.
+- `glob` : glob library helps me to define the extension-type files in the directory and scan them.
 - `os` : This library helps me to interact with the operating system (choose and change the current working directory and rename files).
