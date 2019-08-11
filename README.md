@@ -1,5 +1,5 @@
 # Change Files's Extension Using Python Scripts
-I write this scripts to do the process of changing many of files's extension instead of renaming each of them which is very time-consuming and boring.
+I write this Python file to do the process of changing many of files's extension instead of renaming each of them which is very time-consuming and boring.
 You can change the files extension by running this script and following these simple steps below:
 - Choose your destination folder containing your files 
 - Fill in the current files's extension
