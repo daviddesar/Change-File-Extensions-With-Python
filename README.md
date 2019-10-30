@@ -12,4 +12,4 @@ You can change the files extension by running this script and following these si
 - `os` : This library helps me to interact with the operating system (choose and change the current working directory and rename files).
 
 ### Note:
-I hit some problems with the convertion to exe file. I tried using converter from google search results but there are still some errors and I cannot run the converted exe file. If you have any solution to my problem, please contact me. Thank you very much.
+I hit some problems with the convesion to exe file. I tried using converter from google search results but there are still some errors and I cannot run the converted exe file. If you have any solution to my problem, please contact me. Thank you very much.
