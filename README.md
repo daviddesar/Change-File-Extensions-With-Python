@@ -6,6 +6,10 @@ You can change the files extension by running this script and following these si
 - Click `Scan Files` to see the current number of files in the directory
 - Fill in your extension you want to change to in the next text box
 - And finally click `Convert!`
+
+
+![image](https://user-images.githubusercontent.com/47805423/72485490-74f9ad80-383a-11ea-9d26-3122f9e24330.png)
+
 ## Libraries I used in this file:
 - `tkinter` : I use tkinter to make the GUI and make the app visible and easier to use.
 - `glob` : glob library helps me to define the extension-type files in the directory and scan them.
